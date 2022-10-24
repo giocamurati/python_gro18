@@ -4,7 +4,7 @@
 
 #include <NTL/ZZXFactoring.h>
 #include <NTL/RR.h>
-#include "libgrosso.h"
+#include "libgro18.h"
 
 using namespace std;
 using namespace NTL;
