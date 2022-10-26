@@ -4,6 +4,8 @@ This repository provides Python bindings for the key rank estimation algorithm
 proposed by Vincent Grosso at CARDIS18 [paper](https://hal.archives-ouvertes.fr/hal-02901386).
 All credits for the development of this algorithm and library go to the original
 author.
+The coded provided in this repo is given without any guarantee of correctness
+nor efficiency.
 
 This project was developed to be used as baseline for 
 [MCRank](https://github.com/giocamurati/mcrank).
